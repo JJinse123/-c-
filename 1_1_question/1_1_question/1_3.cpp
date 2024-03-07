@@ -2,7 +2,7 @@
 
 void main()
 {
-	std::cout << "´ÜÀ» ÀÔ·ÂÇÏ½Ã¿À: ";
+	std::cout << "ë‹¨ì„ ì…ë ¥í•˜ì‹œì˜¤: ";
 	int dan;
 	std::cin >> dan;
 
