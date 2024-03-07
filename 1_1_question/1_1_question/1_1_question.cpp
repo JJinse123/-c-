@@ -6,7 +6,7 @@ void main()
 
 	for (int i = 1; i<=5; i++)
 	{
-		std::cout << i << "¹øÂ° Á¤¼ö ÀÔ·Â: ";
+		std::cout << i << "번째 정수 입력: ";
 		std::cin >> num;
 		sum += num;
 	}
