@@ -6,10 +6,10 @@ void main()
 
 	for (int i = 1; i<=5; i++)
 	{
-		std::cout << i << "¹øÂ° Á¤¼ö ÀÔ·Â: ";
+		std::cout << i << "Â¹Ã¸Ã‚Â° ÃÂ¤Â¼Ã¶ Ã€Ã”Â·Ã‚: ";
 		std::cin >> num;
 		sum += num;
 	}
 
-	std::cout << "ÇÕ°è: " << sum;
+	std::cout << "í•©ê³„: " << sum;
 }
